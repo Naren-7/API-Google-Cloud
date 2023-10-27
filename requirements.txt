@@ -1,0 +1,8 @@
+pandas
+requests
+google-api-python-client
+matplotlib
+seaborn
+gspread
+oauth2client
+openpyxl
