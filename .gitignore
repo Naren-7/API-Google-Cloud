@@ -1,2 +1,6 @@
 env/
 client_secrets.json
+*.json
+*.xlsx
+*.yaml
+__pycache__/
